@@ -1,6 +1,6 @@
 def calcular_velocidad_corredores():
     print("Cálculo de Velocidad Media (1.500m)")
-    print("Ingrese el tiempo (0 0 para finalizar)")
+    print("Ingrese el tiempo con un espacio (0 0 para finalizar)")
     
     DISTANCIA = 1500 
     
