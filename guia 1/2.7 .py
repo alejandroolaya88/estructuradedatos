@@ -1,5 +1,5 @@
 def verificar_suma_de_dos():
-    print("2Uno es la suma de los otros dos?")
+    print("Uno es la suma de los otros dos?")
     
     a = float(input("Ingrese el primer número: "))
     b = float(input("Ingrese el segundo número: "))
